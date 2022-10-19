@@ -1,0 +1,35 @@
+.title{
+    text-align:center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    
+}
+.navbar{
+    background-color: rgb(0, 41, 128);
+}
+.navbar a{
+    color: white;
+}
+
+.box{
+    width: 35%;
+    height: 400px;
+    background-color: white;
+    border: 3px solid grey;
+    border-radius: 5px;
+    resize: none;
+    box-shadow: 10px 10px 25 0px #b8b6b8;
+    
+}
+.main-Box{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    padding: 8px;
+}
+body{
+    background-color: rgb(226, 233, 245) !important;
+}
+
+
+    
